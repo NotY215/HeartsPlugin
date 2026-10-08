@@ -124,3 +124,14 @@ No deprecated API. Attribute system updated.
 ---
 
 If you want, I can also add a **preview image**, **plugin.yml**, or **config.yml** section.
+
+
+## Project policies
+
+- [Contributing](CONTRIBUTING.md)
+- [Code of Conduct](CODE_OF_CONDUCT.md)
+- [Security](SECURITY.md)
+- [Support](SUPPORT.md)
+- [Citation](CITATION.cff)
+- [Governance](GOVERNANCE.md)
+- [License](LICENSE)
